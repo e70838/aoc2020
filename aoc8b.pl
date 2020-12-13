@@ -45,3 +45,5 @@ foreach my $i (0..$#prog) {
         $prog[$i]->[0] = 'jmp';
     }
 }
+# part b finished at 6:53 (submitted 06:54:11),
+# part a finished at 6:39 (submitted 06:40:48), started at 6:08 (logged in 6:06 + remote)

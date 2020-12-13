@@ -42,3 +42,4 @@ foreach my $line (<>) {
 
 print "$slat $slong \n";
 print abs($slat)+abs($slong), "\n";
+# part b finished at 6:32 (submitted 6:33:29), part a finished at 6:14, started at 6:00

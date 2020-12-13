@@ -55,3 +55,4 @@ while (1) {
     }
     $prev = $next;
 }
+# part b finished at 6:37:12, part a finished at 6:26:43, started at 6:00

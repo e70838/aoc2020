@@ -33,3 +33,5 @@ MAIN : while ($i < @a) {
 }
 
 # 1994105
+# part b finished at 6:32 (submitted 06:32:17),
+# part a finished at 6:16 (submitted 06:16:30), started at 6:00
