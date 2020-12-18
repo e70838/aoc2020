@@ -35,4 +35,5 @@ foreach my $v (@m) {
 print $r, "\n";
 
 print count (0, @a), "\n";
-# part b finished at 7:16:06, part a finished at 6:25:00, started at 6:06 (logged in a 6:05)
+# part b submitted at 7:16:06,
+# part a finished at 6:24 (submitted 6:25:00), started at 6:06 (logged in a 6:05)
