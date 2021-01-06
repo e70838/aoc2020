@@ -8,4 +8,4 @@ I program in Perl. In order to code faster, I put fewer comments and I use short
 
 I am proud of the "the perlish style" of many of my solutions. I think someone learning perl could try to solve the exercises by himself, then look at my solutions to compare. If you find your solution more elegant, I welcome your feedback.
 
-I am learning javascript. I will try to solve some of the exercise using javascript. As I am a beginner, all feedback is welcome.
+The second part of day 20 was too long. I have resigned. I cheated (took a solution from internet) in order to get my last star.
